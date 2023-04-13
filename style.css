@@ -185,7 +185,7 @@ header{
 
 .features-section{
     padding: 80px var(--padding-inner-section) 0;
-    background-image: url(/homepage/assets/asset\ 41.png);
+    background-image: url(./assets/asset\ 41.png);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
@@ -258,7 +258,7 @@ header{
     position: relative;
     height: 300px;
     background: black;
-    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(/homepage/assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(./assets/asset\ 36.jpeg);
     background-size: cover;
     transition: 0.2s ease-out ;
 }
@@ -266,15 +266,15 @@ header{
     box-shadow: 0 0 10px #888;
 }
 .examples-card:nth-child(2){
-    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(/homepage/assets/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(./assets/asset\ 37.jpeg);
     background-size: cover;
 }
 .examples-card:nth-child(3){
-    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(/homepage/assets/asset\ 38.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(./assets/asset\ 38.jpeg);
     background-size: cover;
 }
 .examples-card:nth-child(4){
-    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(/homepage/assets/asset\ 39.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1) , rgb(0, 0 ,0 ,0.8 ) ), url(./assets/asset\ 39.jpeg);
     background-size: cover;
 }
 
